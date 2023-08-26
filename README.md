@@ -17,4 +17,4 @@ Developed by Y0mu#0703
 4. At top left select "Load Unpacked"
 5. Find the unzipped extension folder and load it.
 
-![Extension image](https://raw.githubusercontent.com/ImY0mu/SMMO-chat_customization/main/preview.png)
+![Extension image](https://raw.githubusercontent.com/ImY0mu/SMMO-side_chat/main/preview.png)
