@@ -1,4 +1,4 @@
-# SMMO web app - chrome extension for chat customization
+# SMMO web app chrome extension
 
 Version: 1.0.0
 
