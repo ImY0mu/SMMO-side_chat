@@ -2,7 +2,7 @@
   "name": "SimpleMMO - Side chat",
   "author": "Y0mu",
   "description": "SMMO browser extension developed by Y0mu. It is a chrome extension that customizes the chat a little to SMMO web app.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "icons": {
     "128": "img/icon.png",
