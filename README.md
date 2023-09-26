@@ -1,6 +1,6 @@
 # SMMO web app chrome extension
 
-Version: 1.0.0
+Version: 1.0.1
 
 Developed by Y0mu#0703
 

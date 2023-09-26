@@ -30,6 +30,10 @@
       "matches": [
         "https://web.simple-mmo.com/*"
       ],
+      "exclude_matches": [
+        "https://web.simple-mmo.com/login",
+        "https://web.simple-mmo.com/register"
+      ],
       "run_at": "document_start"
     }
   ],
@@ -39,8 +43,5 @@
     "tabs",
     "webRequest",
     "declarativeNetRequest"
-  ],
-  "host_permissions": [
-    "https://web.simple-mmo.com/*"
   ]
 }
